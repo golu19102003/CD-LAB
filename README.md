@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/c76d52cb-a081-4e46-acb3-b757144cf3bb)
 ![image](https://github.com/user-attachments/assets/d8197bac-054b-402f-8187-61d2ae47347e)
+![image](https://github.com/user-attachments/assets/c76d52cb-a081-4e46-acb3-b757144cf3bb)
 ![image](https://github.com/user-attachments/assets/a001f746-8ae6-45e4-b682-9bc64446f5a1)
 The **Compiler Design Lab** as per Rajasthan Technical University (RTU) curriculum is a practical-oriented course designed to provide students with hands-on experience in the fundamental concepts and techniques involved in compiler construction. This lab complements the theoretical knowledge gained in the Compiler Design theory course by enabling students to implement and experiment with various compiler components and tools.The Compiler Design lab is a hands-on course that focuses on the design and implementation of compilers. Students learn to analyze and design algorithms for various phases of compilation, including lexical analysis, syntax analysis, semantic analysis, optimization, and code generation.
 
