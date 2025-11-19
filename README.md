@@ -3,6 +3,11 @@
 <img width="695" height="400" alt="image" src="https://github.com/user-attachments/assets/b6ce4deb-742e-4de8-93a7-9a477745aba9" />
 ![image](https://github.com/user-attachments/assets/c76d52cb-a081-4e46-acb3-b757144cf3bb)
 ![image](https://github.com/user-attachments/assets/a001f746-8ae6-45e4-b682-9bc64446f5a1)
+
+# Compiler Design Lab
+All the Programs of the 6th Sem Compiler Design Lab with their output in different steps. These programs include the core phases of compiler construction such as Lexical Analysis, Syntax Analysis, Semantic Analysis, Intermediate Code Generation, Code Optimization, and Code Generation, along with practical implementation of tools like Lex and Yacc.
+
+## Introduction to RTU Compiler Design Lab
 The **Compiler Design Lab** as per Rajasthan Technical University (RTU) curriculum is a practical-oriented course designed to provide students with hands-on experience in the fundamental concepts and techniques involved in compiler construction. This lab complements the theoretical knowledge gained in the Compiler Design theory course by enabling students to implement and experiment with various compiler components and tools.The Compiler Design lab is a hands-on course that focuses on the design and implementation of compilers. Students learn to analyze and design algorithms for various phases of compilation, including lexical analysis, syntax analysis, semantic analysis, optimization, and code generation.
 
 ### Objective
